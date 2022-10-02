@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "938191329928",
+    "firebase_url": "https://coronadetector1.firebaseio.com",
+    "project_id": "coronadetector1",
+    "storage_bucket": "coronadetector1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938191329928:android:dbe664bffe3b112df75d3d",
+        "android_client_info": {
+          "package_name": "com.example.coronadetector1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938191329928-q8oiuf7bru1llsi6as5l1qss0hqiqfjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6OQZ59OjrGHj4D-xyqHUR34I6AC1pNIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938191329928-q8oiuf7bru1llsi6as5l1qss0hqiqfjk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
